@@ -23,7 +23,7 @@ A sleek, responsive web project built with **React**, styled using **Tailwind CS
 
 # 📦 Getting Started
 
-To run locally:
+To run locally, write these:
 
 # Clone the repo
 git clone https://github.com/HebronEnyew/Tailwind-React.git
