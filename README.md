@@ -2,7 +2,6 @@
 
 A sleek, responsive web project built with **React**, styled using **Tailwind CSS**, and optimized for modern layouts. This site showcases components like pricing sections, marketing copy, responsive grids, and newsletter subscriptions — all built with scalability and clean design in mind.
 
----
 
 ## 🚀 Features
 
@@ -12,8 +11,6 @@ A sleek, responsive web project built with **React**, styled using **Tailwind CS
 - 🧱 **Reusable components** for sections like pricing cards and newsletters
 - 🌈 **Smooth hover effects** and transitions
 - 📊 Ideal for showcasing SaaS, analytics, or portfolio content
-
----
 
 ## 🛠️ Tech Stack
 
