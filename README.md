@@ -1,4 +1,29 @@
-# React + Vite
+🌐 Tailwind + React Responsive Website
+
+A sleek, responsive web project built with **React**, styled using **Tailwind CSS**, and optimized for modern layouts. This site showcases components like pricing sections, marketing copy, responsive grids, and newsletter subscriptions — all built with scalability and clean design in mind.
+
+---
+
+## 🚀 Features
+
+- ⚡ **Fast Vite setup** for instant development feedback
+- 🎨 **Tailwind CSS** utility-first styling
+- 📱 **Responsive design** with mobile-first breakpoints
+- 🧱 **Reusable components** for sections like pricing cards and newsletters
+- 🌈 **Smooth hover effects** and transitions
+- 📊 Ideal for showcasing SaaS, analytics, or portfolio content
+
+---
+
+## 🛠️ Tech Stack
+
+| Tool        | Usage                                  |
+|-------------|------------------------------------------|
+| React       | UI Components and state management       |
+| Tailwind CSS| Styling and layout responsiveness        |
+| Vite        | Lightning-fast bundling and dev server   |
+
+---
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
