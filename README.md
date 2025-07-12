@@ -37,6 +37,13 @@ npm install
 # Run dev server
 npm run dev
 
+🧾 Folder Structure
+src/
+├── assets/        # Images and media
+├── components/    # Reusable React components
+├── App.jsx        # Main layout
+├── index.css      # Tailwind imports
+└── main.jsx       # Root entry
 
 
 
