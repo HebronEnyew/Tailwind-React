@@ -54,7 +54,12 @@ lg:grid-cols-3
 hover:bg-gray-700
 Tested across desktop, tablet, and mobile screen widths.
 
+📨 Newsletter Section
+Includes an email subscription input with hover effects and call-to-action styling:
 
+jsx
+<input type="email" placeholder="Enter email" />
+<button>Notify Me</button>
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
