@@ -23,7 +23,23 @@ A sleek, responsive web project built with **React**, styled using **Tailwind CS
 | Tailwind CSS| Styling and layout responsiveness        |
 | Vite        | Lightning-fast bundling and dev server   |
 
----
+# 📦 Getting Started
+
+To run locally:
+
+# Clone the repo
+git clone https://github.com/HebronEnyew/Tailwind-React.git
+cd Tailwind-React
+
+# Install dependencies
+npm install
+
+# Run dev server
+npm run dev
+
+
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
