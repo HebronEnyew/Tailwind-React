@@ -45,6 +45,15 @@ src/
 ├── index.css      # Tailwind imports
 └── main.jsx       # Root entry
 
+📱 Responsive Design
+Built using Tailwind breakpoints:
+
+css
+md:flex
+lg:grid-cols-3
+hover:bg-gray-700
+Tested across desktop, tablet, and mobile screen widths.
+
 
 
 
